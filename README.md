@@ -5,7 +5,8 @@ id:test@test.com
 pw:123456
 
 # 로그인 해야 입장가능
-![teemo](https://github.com/rnr9928/REACT/assets/97073355/f5826e18-bcf9-47cf-aeaa-e030fbf25919)
+![제목 없음](https://github.com/rnr9928/REACT/assets/97073355/cf43b080-fcc4-4305-baff-98b14b21c6f5)
+
 
 ### 회원가입
 
