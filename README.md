@@ -1,6 +1,7 @@
 # React 토이 프로젝트
 주소: https://yoyo-9109a.web.app/home
-
+id:test@test.com    
+pw:123456
 
 # 로그인 해야 입장가능
 ![teemo](https://github.com/rnr9928/REACT/assets/97073355/f5826e18-bcf9-47cf-aeaa-e030fbf25919)
