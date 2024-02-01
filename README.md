@@ -10,17 +10,18 @@ pw:123456
 
 ### 회원가입
 
-![제목 없음.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/95e5b05c-c8f2-4cfe-bbab-99aac56e3458/8e2a9a28-944a-43d8-a940-e35acc7d6254/%EC%A0%9C%EB%AA%A9_%EC%97%86%EC%9D%8C.png)
+![제목 없음 (1)](https://github.com/rnr9928/REACT/assets/97073355/2c9e517a-b321-4096-962d-e2ced42ef4e5)
+
 
 파이어베이스 인증기능인  getAuth를 임포트 해준다
+![제목 없음 (2)](https://github.com/rnr9928/REACT/assets/97073355/cd140132-1300-4fba-b3a7-d86649dde61f)
 
-![제목 없음.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/95e5b05c-c8f2-4cfe-bbab-99aac56e3458/ebacedcb-974d-4ed9-a488-7c32966d8823/%EC%A0%9C%EB%AA%A9_%EC%97%86%EC%9D%8C.png)
 
 파이어베이스 콘솔에서 인증 기본설정을 할 수있다
 
 이메일/비밀번호 형식으로 설정
+![제목 없음 (3)](https://github.com/rnr9928/REACT/assets/97073355/fa51137e-b858-449d-8ce4-d14550ee7af4)
 
-![제목 없음.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/95e5b05c-c8f2-4cfe-bbab-99aac56e3458/c79bc951-6a3f-43d1-b63c-25af6e0dae54/%EC%A0%9C%EB%AA%A9_%EC%97%86%EC%9D%8C.png)
 
 이메일과 비밀번호를 이용하여 회원가입을 진행할수있고
 
@@ -30,13 +31,15 @@ file storage를 추가해서 프로필 설정도 가능하게 만들었다
 
 toast 라이브러리로 성공 실패 알림 
 
-![제목 없음.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/95e5b05c-c8f2-4cfe-bbab-99aac56e3458/61651106-31b1-44b0-9bba-ca378b58c24f/%EC%A0%9C%EB%AA%A9_%EC%97%86%EC%9D%8C.png)
+![제목 없음 (4)](https://github.com/rnr9928/REACT/assets/97073355/c7033256-15de-46ab-b7e5-9a9e19184cea)
+
 
 회원가입을 완료하면
 
 파이어베이스에서 유저정보를 확인할 수 있다 
 
-![제목 없음.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/95e5b05c-c8f2-4cfe-bbab-99aac56e3458/0be2f32a-be43-4f0f-824f-711cd7c842c2/%EC%A0%9C%EB%AA%A9_%EC%97%86%EC%9D%8C.png)
+![제목 없음 (5)](https://github.com/rnr9928/REACT/assets/97073355/2ef3642c-3ff5-4443-b7bc-28b47cc744d5)
+
 
 파이어베이스 auth는 현재 로그인한 사람을 확인하는 currentUser함수를 가지고 있다
 
@@ -54,11 +57,14 @@ currentUser 값에 따라 로그인 상태를 조작 가능
 
 # 유저 정보 확인
 
-![제목 없음.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/95e5b05c-c8f2-4cfe-bbab-99aac56e3458/5be49c8c-c0dc-4613-9e2c-74d9ec2b349d/%EC%A0%9C%EB%AA%A9_%EC%97%86%EC%9D%8C.png)
+![제목 없음](https://github.com/rnr9928/REACT/assets/97073355/2a20835d-e86a-4573-831d-de29586294ba)
+
 
 ## 파이어 베이스 DB관리
 
-![제목 없음.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/95e5b05c-c8f2-4cfe-bbab-99aac56e3458/98a4fe96-7bec-4c26-8e3a-a362399fe7a9/%EC%A0%9C%EB%AA%A9_%EC%97%86%EC%9D%8C.png)
+![제목 없음 (1)](https://github.com/rnr9928/REACT/assets/97073355/4eb0f318-f687-46c0-a111-413fa0a5f587)
+
 
 ## 파일 스토리지
-![제목 없음.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/95e5b05c-c8f2-4cfe-bbab-99aac56e3458/d032cd8a-31de-492b-a5ed-b3a1c763612a/%EC%A0%9C%EB%AA%A9_%EC%97%86%EC%9D%8C.png)
+![제목 없음 (2)](https://github.com/rnr9928/REACT/assets/97073355/acfdacba-2880-4426-85b9-740863676f53)
+
