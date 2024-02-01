@@ -37,22 +37,17 @@ toast 라이브러리로 성공 실패 알림
 ![제목 없음 (4)](https://github.com/rnr9928/REACT/assets/97073355/c7033256-15de-46ab-b7e5-9a9e19184cea)
 
 
-회원가입을 완료하면
-
-파이어베이스에서 유저정보를 확인할 수 있다 
-
-![제목 없음 (5)](https://github.com/rnr9928/REACT/assets/97073355/2ef3642c-3ff5-4443-b7bc-28b47cc744d5)
-
-
 파이어베이스 auth는 현재 로그인한 사람을 확인하는 currentUser함수를 가지고 있다
 
 로그인하지 않은 상태면 null을 반환한다
 
 currentUser 값에 따라 로그인 상태를 조작 가능
 
-![제목 없음.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/95e5b05c-c8f2-4cfe-bbab-99aac56e3458/aed62cbf-f102-4fce-b6a4-cbb4c2303b7b/%EC%A0%9C%EB%AA%A9_%EC%97%86%EC%9D%8C.png)
+![제목 없음 (5)](https://github.com/rnr9928/REACT/assets/97073355/2ef3642c-3ff5-4443-b7bc-28b47cc744d5)
+
 
 이런식으로 로그인이 되어있지 않다면 로그인 페이지로 이동하게 만들 수 있다
+
 
 # 기능들
 
