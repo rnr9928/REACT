@@ -5,7 +5,8 @@ id:test@test.com
 pw:123456
 
 # Firebase
-![제목 없음](https://github.com/rnr9928/REACT/assets/97073355/cf43b080-fcc4-4305-baff-98b14b21c6f5)
+![제목 없음](https://github.com/rnr9928/REACT/assets/97073355/94b9266d-3e8f-4824-aca5-eed93e86de81)
+
 
 파이어베이스 인증기능인  getAuth를 임포트 해준다
 
